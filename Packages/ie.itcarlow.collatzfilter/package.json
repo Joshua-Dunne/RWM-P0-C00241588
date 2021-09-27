@@ -1,0 +1,7 @@
+{
+	"name": "ie.itcarlow.collatzfilter",
+	"version": "0.1.0",
+	"displayName": "CollatzFilter",
+	"descrpition": "For each number n, if n is odd, replace by 3n + 1 otherwise replace by n / 2.",
+	"unity": "2020.3"
+}
